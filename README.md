@@ -15,4 +15,5 @@ Projekt został wykonany na zajęcia z Programowania Obiektowego prowadzone na A
 Java + Swing
 
 ### Uruchomienie programu
-Klasa dzięki której możemy uruchomić program nazywa się "World" i znajduje się w folderze src -> main/agh/cs/lab8 -> AnimalWorld
+Klasa dzięki której możemy uruchomić program nazywa się "World" 
+Znajduje się w folderze src -> main/agh/cs/lab8 -> AnimalWorld

@@ -1,0 +1,12 @@
+{
+  "mapWidth": 30,
+  "mapHeight": 30,
+  "jungleWidth": 10,
+  "jungleHeight": 10,
+  "grassEnergyProfit": 15,
+  "dayCost": 1,
+  "animalsStartEnergy": 40,
+  "numOfSpawnedAnimalsInJungle": 10,
+  "numOfSpawnedAnimalsInStep": 10,
+  "delay": 10
+}
